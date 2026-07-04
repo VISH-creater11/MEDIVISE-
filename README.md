@@ -87,8 +87,3 @@ The frontend is served as static files by the Express backend — once the backe
 | `/pharmacist/*` | Pharmacist queue, alerts, decisions, stats |
 | `POST /analyze` (ML service, port 8000) | Runs the interaction model on a drug pair |
 
-## ⚠️ Disclaimer
-MediVise is a prototype for educational/research purposes. It is **not** a substitute for professional medical advice. Always consult a licensed healthcare provider before making medication decisions.
-
-## 📄 License
-Add a license of your choice (e.g., MIT) here.
